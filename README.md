@@ -43,7 +43,7 @@ RescueRanger/
 
 Download or clone the repository:
 
-git clone https://github.com/your-username/Disaster-Management-Application.git
+git clone https://github.com/Saiteja-ganapaneni/Real-time-Disaster-Prediction.git
 
 
 Navigate to the project folder:
